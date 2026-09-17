@@ -16,4 +16,4 @@ An interactive Power BI dashboard created to analyze Amazon sales performance, p
 
  📌 Dashboard Preview
 
-![Amazon Sales Dashboard](amazon_sales.jpg)
+![Amazon Sales Dashboard](Amazon.png)
