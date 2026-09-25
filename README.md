@@ -6,7 +6,6 @@ An interactive Power BI dashboard created to analyze Amazon sales performance, p
 - Power BI
 - Data Analysis
 - Data Visualization
-- DAX
 
 📊 𝗞𝗲𝘆 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀 – 𝗔𝗺𝗮𝘇𝗼𝗻 𝗦𝗮𝗹𝗲𝘀 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱
 💰 YTD sales reached $2.18M, with QTD sales of $811.09K.
